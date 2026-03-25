@@ -40,4 +40,4 @@ Build a web-based 1-on-1 mentorship platform where a mentor and a student can:
 - WebSocket (STOMP) for editor & chat
 - WebRTC (frontend) with backend-only signaling
 
-## 📁 Project Structure (Monorepo)
+
