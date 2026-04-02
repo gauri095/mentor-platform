@@ -60,7 +60,7 @@ public class Message {
      * Maps to users.id.
      */
     @Column(name = "sender_id", nullable = false, updatable = false)
-    private Long senderId;
+    private String senderId;
 
     /**
      * Denormalised sender email for display purposes.
